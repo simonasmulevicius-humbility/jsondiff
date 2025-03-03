@@ -1,4 +1,4 @@
-JSON Diff
+JSON Diff (2)
 ==================================================
 
 JSON Diff expands on the amazing work by the team at [jsonlint.com](http://www.jsonlint.com) and provides a semantic compare tool for JSON documents.
